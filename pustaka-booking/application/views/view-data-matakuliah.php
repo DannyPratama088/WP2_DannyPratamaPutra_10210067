@@ -39,7 +39,7 @@
             <tr>
                 <td colspan="3" align="center">
                     <a href="http://localhost/pustaka-booking/Matakuliah">Kembali</a>
-                    <!-- <?= base_url('matakuliah'); ?> -->
+                    <!-- <a href=" <?= base_url('matakuliah'); ?>">Kembali</a> -->
                 </td>
             </tr>
         </table>
