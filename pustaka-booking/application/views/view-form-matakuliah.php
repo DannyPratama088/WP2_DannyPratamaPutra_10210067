@@ -4,7 +4,7 @@
 </head>
 <body>
     <center>
-        <form action="<?= base_url('cetak'); ?>"
+        <form action="<?= base_url('Matakuliah/cetak'); ?>"
     method="post">
  <table>
     <tr>
